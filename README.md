@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad Danyal Afzal
 - 💻 I’m interested in Software Dev, Fullstack Web Dev, and AI/Machine Learning
 - 💎 I’m currently learning MERN stack, reinforcment learning, and working with OpenCV
-- 💞️ I’m looking to collaborate on anything 😁, reach out to me cool oppurtunities
+- 💞️ I’m looking to collaborate on anything 😁, reach out to me for cool oppurtunities
 - 📫 How to reach me: Send me a message at afzalm7@mcmaster.ca
 
 <!---
